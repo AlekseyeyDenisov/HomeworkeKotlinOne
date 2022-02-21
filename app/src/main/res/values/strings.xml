@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HomeWorkKotlinPartOne</string>
+    <string name="click_success">Click  success</string>
+    <string name="name_button">click toast</string>
 </resources>
